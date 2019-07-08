@@ -1,0 +1,10 @@
+       1 xbuff_a.
+       2 xbuff_b.
+       3 xinv_out.
+       4 xxor_v4.
+       5 xbuff_a.xinv_1.
+       6 xbuff_a.xinv_2.
+       7 xbuff_b.xinv_1.
+       8 xbuff_b.xinv_2.
+       9 xinv_out.xinv_1.
+      10 xinv_out.xinv_2.
