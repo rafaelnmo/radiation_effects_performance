@@ -4,23 +4,14 @@
 *------------------------------------------------------------
 
 *------atrasos-----
-.measure tran tplh_1B trig v(buff_b) val='0.5*0.3' fall=1 targ v(xor) val='0.5*0.3' rise=1
-.measure tran tphl_A0 trig v(buff_a) val='0.5*0.3' fall=1 targ v(xor) val='0.5*0.3' fall=1
-.measure tran tplh_0B trig v(buff_b) val='0.5*0.3' rise=1 targ v(xor) val='0.5*0.3' rise=2
-.measure tran tphl_A1 trig v(buff_a) val='0.5*0.3' rise=1 targ v(xor) val='0.5*0.3' fall=2
-.measure tran tplh_A1 trig v(buff_a) val='0.5*0.3' fall=2 targ v(xor) val='0.5*0.3' rise=3
-.measure tran tplh_0B trig v(buff_b) val='0.5*0.3' fall=2 targ v(xor) val='0.5*0.3' fall=3
-.measure tran tplh_A0 trig v(buff_a) val='0.5*0.3' rise=2 targ v(xor) val='0.5*0.3' rise=4
-.measure tran tplh_1B trig v(buff_b) val='0.5*0.3' rise=2 targ v(xor) val='0.5*0.3' fall=4
-
-*.measure tran tplh_1B trig v(buff_b) val='0.5*0.7' fall=1 targ v(xor) val='0.5*0.7' rise=1
-*.measure tran tphl_A0 trig v(buff_a) val='0.5*0.7' fall=1 targ v(xor) val='0.5*0.7' fall=1
-*.measure tran tplh_0B trig v(buff_b) val='0.5*0.7' rise=1 targ v(xor) val='0.5*0.7' rise=2
-*.measure tran tphl_A1 trig v(buff_a) val='0.5*0.7' rise=1 targ v(xor) val='0.5*0.7' fall=2
-*.measure tran tplh_A1 trig v(buff_a) val='0.5*0.7' fall=2 targ v(xor) val='0.5*0.7' rise=3
-*.measure tran tplh_0B trig v(buff_b) val='0.5*0.7' fall=2 targ v(xor) val='0.5*0.7' fall=3
-*.measure tran tplh_A0 trig v(buff_a) val='0.5*0.7' rise=2 targ v(xor) val='0.5*0.7' rise=4
-*.measure tran tplh_1B trig v(buff_b) val='0.5*0.7' rise=2 targ v(xor) val='0.5*0.7' fall=4
+.measure tran tplh_1B trig v(buff_b) val='0.5*0.7' fall=1 targ v(xor) val='0.5*0.7' rise=1
+.measure tran tphl_A0 trig v(buff_a) val='0.5*0.7' fall=1 targ v(xor) val='0.5*0.7' fall=1
+.measure tran tplh_0B trig v(buff_b) val='0.5*0.7' rise=1 targ v(xor) val='0.5*0.7' rise=2
+.measure tran tphl_A1 trig v(buff_a) val='0.5*0.7' rise=1 targ v(xor) val='0.5*0.7' fall=2
+.measure tran tplh_A1 trig v(buff_a) val='0.5*0.7' fall=2 targ v(xor) val='0.5*0.7' rise=3
+.measure tran tphl_0B trig v(buff_b) val='0.5*0.7' fall=2 targ v(xor) val='0.5*0.7' fall=3
+.measure tran tplh_A0 trig v(buff_a) val='0.5*0.7' rise=2 targ v(xor) val='0.5*0.7' rise=4
+.measure tran tphl_1B trig v(buff_b) val='0.5*0.7' rise=2 targ v(xor) val='0.5*0.7' fall=4
 
 
 
