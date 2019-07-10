@@ -25,8 +25,8 @@
 *--------------------------------------------------------------
 Xbuff_a a buff_a vdd1 gnd buffer
 Xbuff_b b buff_b vdd1 gnd buffer
-Xinv_a buff_a buff_not_a vdd1 gnd inversor
-Xinv_b buff_b buff_not_b vdd1 gnd inversor
+*Xinv_a buff_a buff_not_a vdd1 gnd inversor
+*Xinv_b buff_b buff_not_b vdd1 gnd inversor
 
 *Xinv_out xor inv vdd3 gnd buffer
 
@@ -34,16 +34,15 @@ Xinv_b buff_b buff_not_b vdd1 gnd inversor
 Xinv_4 xor inv vdd3 gnd inversor4
 	*----------------------------------*
 
-Xxor_v1 buff_a buff_not_a buff_b buff_not_b xor vdd2 gnd xor_v1
+*Xxor_v1 buff_a buff_not_a buff_b buff_not_b xor vdd2 gnd xor_v1
 *Xxor_v2 buff_a buff_b xor vdd2 gnd xor_v2
 *Xxor_v3 buff_a buff_b xor vdd2 gnd xor_v3
-*Xxor_v4 buff_a buff_b xor vdd2 gnd xor_v4
+Xxor_v4 buff_a buff_b xor vdd2 gnd xor_v4
 *Xxor_v5 buff_a buff_not_a buff_b buff_not_b xor vdd2 gnd xor_v5
 *Xxor_v6 buff_a buff_not_a buff_b buff_not_b xor vdd2 gnd xor_v6 
 *Xxor_v7 buff_a buff_not_a buff_b buff_not_b xor vdd2 gnd xor_v7
 *Xxor_v8 buff_a buff_b xor vdd2 gnd xor_v8
 *Xxor_v9 buff_a buff_b buff_not_b xor vdd2 gnd xor_v9
-Xxor_vtest buff_a buff_not_a buff_not_b buff_b xor vdd2 gnd xor_vtest
 
 *-------------------------------------------------------
 * Estimulos
@@ -52,8 +51,8 @@ Xxor_vtest buff_a buff_not_a buff_not_b buff_b xor vdd2 gnd xor_vtest
 
 	*-----estimulos para performance----*
 *.tran 0.01ns 22.5ns
-.tran 0.01ns 8ns
-*.tran 0.01ns 18ns
+*.tran 0.01ns 8ns
+.tran 0.01ns 18ns
 	*-----------------------------------*
 
 *-------------------------------------------------------
@@ -69,7 +68,7 @@ Xxor_vtest buff_a buff_not_a buff_not_b buff_b xor vdd2 gnd xor_vtest
 *.measure v_saida_inv find V(inv) at=4.05ns
 
 	*----measures para performance-----*
-*.include measures.cir
+.include measures.cir
 	*----------------------------------*
 *--------------------------------------------------------
 * Fim da declaracao
