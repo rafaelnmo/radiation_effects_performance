@@ -9,15 +9,16 @@ Vvdd3 vdd3 gnd supply
 
 
 	*-----Fontes para simulacao da colisao dos ions----*
-*Va a gnd 0.7
-*Vb b gnd 0
+Va a gnd 0.7
+Vb b gnd 0.7
 	*--------------------------------------------------*
+
 *--------------------------------------------------------------
-* Declaração fontes PWL (gate signals)
+* Declaracao fontes PWL (gate signals)
 *--------------------------------------------------------------
 *Periodo de 4 ns
-Va a gnd PWL (0ns 0.7 4ns 0.7 4.01ns 0 8ns 0 8.01ns 0.7 10ns 0.7 10.01ns 0 14ns 0 14.01ns 0.7 18ns 0.7)
-Vb b gnd PWL (0ns 0.7 2ns 0.7 2.01ns 0 6ns 0 6.01ns 0.7 12ns 0.7 12.01ns 0 16ns 0 16.01ns 0.7 18ns 0.7)
+*Va a gnd PWL (0ns 0.7 4ns 0.7 4.01ns 0 8ns 0 8.01ns 0.7 10ns 0.7 10.01ns 0 14ns 0 14.01ns 0.7 18ns 0.7)
+*Vb b gnd PWL (0ns 0.7 2ns 0.7 2.01ns 0 6ns 0 6.01ns 0.7 12ns 0.7 12.01ns 0 16ns 0 16.01ns 0.7 18ns 0.7)
 
 
 *Va a gnd PWL (0ns 0 4ns 0 4.01ns 0.7 8ns 0.7)

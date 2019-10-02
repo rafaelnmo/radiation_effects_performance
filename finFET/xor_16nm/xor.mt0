@@ -1,10 +1,4 @@
 $DATA1 SOURCE='HSPICE' VERSION='H-2013.03-SP1 32-BIT'
 .TITLE ' '
- tplh_1b          tphl_a0          tplh_0b          tphl_a1           
- tplh_a1          tphl_0b          tplh_a0          tphl_1b           
- energiavdd1      energiavdd2      energiavdd3      temper            
- alter#            
-  3.125e-12       -2.232e-14        4.457e-12        3.679e-12        
-  3.931e-12        4.239e-12        1.100e-12        2.992e-12        
- -6.398e-15       -4.370e-23       -5.299e-16         25.0000         
- 1                 
+ v_saida_xor      v_saida_inv      temper           alter#            
+    0.4153           0.4279         125.0000        1                 
