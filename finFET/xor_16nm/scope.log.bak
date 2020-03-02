@@ -1,0 +1,869 @@
+Mdi:ArrangeIcons
+wm geometry . 927x994+57+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+72+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+60+75
+Mdi:ArrangeIcons
+wm geometry . 900x785+60+77
+Mdi:ArrangeIcons
+wm geometry . 900x785+59+78
+Mdi:ArrangeIcons
+wm geometry . 900x785+58+78
+Mdi:ArrangeIcons
+wm geometry . 900x785+58+77
+Mdi:ArrangeIcons
+wm geometry . 900x785+59+77
+Mdi:ArrangeIcons
+wm geometry . 900x785+63+72
+Mdi:ArrangeIcons
+wm geometry . 900x785+66+64
+Mdi:ArrangeIcons
+wm geometry . 900x785+70+59
+Mdi:ArrangeIcons
+wm geometry . 900x785+80+47
+Mdi:ArrangeIcons
+wm geometry . 900x785+83+40
+Mdi:ArrangeIcons
+wm geometry . 900x785+83+36
+Mdi:ArrangeIcons
+wm geometry . 900x785+83+31
+Mdi:ArrangeIcons
+wm geometry . 900x785+87+28
+Mdi:ArrangeIcons
+wm geometry . 900x785+105+22
+Mdi:ArrangeIcons
+wm geometry . 900x785+106+20
+Mdi:ArrangeIcons
+wm geometry . 900x785+104+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+102+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+98+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+93+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+88+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+83+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+78+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+73+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+69+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+68+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+67+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+64+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+63+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+62+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+58+19
+Mdi:ArrangeIcons
+wm geometry . 900x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 902x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 907x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 910x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 916x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 917x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 921x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 924x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x785+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x786+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x783+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x746+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x735+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x698+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x694+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x687+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x679+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x678+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x680+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x679+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x666+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x652+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x642+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x639+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x631+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x627+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x612+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x613+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x622+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x631+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x641+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x643+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x654+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x657+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x658+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x659+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x663+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x664+57+19
+Mdi:Resize 490 535
+Mdi:Move 5 5
+Graph:Select Graph0
+Graph:DSel 0
+Graph:DSel
+ScopeSigMgr:loadpffile /home/rafaelneves/spice/radiation_effects_performance/finFET/xor_16nm/xor.tr0 1 openonly
+# PF:1
+wm geometry .sigmgr 472x220+502+129
+wm geometry .sigmgr 472x220+507+126
+wm geometry .sigmgr 472x220+515+123
+wm geometry .sigmgr 472x220+515+119
+wm geometry .sigmgr 472x220+532+117
+wm geometry .sigmgr 472x220+535+115
+wm geometry .sigmgr 472x220+540+114
+wm geometry .sigmgr 472x220+542+114
+wm geometry .sigmgr 472x220+545+114
+wm geometry .sigmgr 472x220+546+113
+wm geometry .sigmgr 472x220+551+112
+wm geometry .sigmgr 472x220+552+111
+wm geometry .sigmgr 472x220+554+111
+wm geometry .sigmgr 472x220+556+111
+wm geometry .sigmgr 472x220+559+110
+wm geometry .sigmgr 472x220+561+110
+wm geometry .sigmgr 472x220+562+109
+wm geometry .sigmgr 472x220+566+108
+wm geometry .sigmgr 472x220+569+108
+wm geometry .sigmgr 472x220+570+108
+wm geometry .sigmgr 472x220+571+108
+wm geometry .sigmgr 472x220+572+109
+wm geometry .sigmgr 472x220+572+110
+wm geometry .sigmgr 472x220+570+111
+wm geometry .sigmgr 472x220+568+112
+wm geometry .sigmgr 472x220+566+113
+wm geometry .sigmgr 472x220+564+113
+wm geometry .sigmgr 472x220+560+116
+wm geometry .sigmgr 472x220+559+116
+wm geometry .sigmgr 472x220+558+117
+wm geometry .sigmgr 472x220+559+116
+wm geometry .sigmgr 472x220+560+115
+wm geometry .sigmgr 472x220+561+115
+wm geometry .sigmgr 472x220+561+114
+wm geometry .sigmgr 472x220+561+113
+wm geometry .sigmgr 472x220+562+113
+wm geometry .sigmgr 472x220+563+111
+wm geometry .sigmgr 472x220+564+111
+wm geometry .sigmgr 472x220+565+110
+wm geometry .sigmgr 471x220+565+110
+wm geometry .sigmgr 467x220+565+110
+wm geometry .sigmgr 460x220+565+110
+wm geometry .sigmgr 439x220+565+110
+wm geometry .sigmgr 423x220+565+110
+wm geometry .sigmgr 420x220+565+110
+wm geometry .sigmgr 419x220+565+110
+wm geometry .sigmgr 418x220+565+110
+wm geometry .sigmgr._PF:1 288x349+950+533
+wm geometry .sigmgr._PF:1 288x349+946+533
+wm geometry .sigmgr._PF:1 288x349+921+526
+wm geometry .sigmgr._PF:1 288x349+878+515
+wm geometry .sigmgr._PF:1 288x349+812+507
+wm geometry .sigmgr._PF:1 288x349+764+475
+wm geometry .sigmgr._PF:1 288x349+731+453
+wm geometry .sigmgr._PF:1 288x349+703+441
+wm geometry .sigmgr._PF:1 288x349+673+427
+wm geometry .sigmgr._PF:1 288x349+654+414
+wm geometry .sigmgr._PF:1 288x349+635+406
+wm geometry .sigmgr._PF:1 288x349+609+394
+wm geometry .sigmgr._PF:1 288x349+601+391
+wm geometry .sigmgr._PF:1 288x349+591+387
+wm geometry .sigmgr._PF:1 288x349+582+384
+wm geometry .sigmgr._PF:1 288x349+571+379
+wm geometry .sigmgr._PF:1 288x349+559+376
+wm geometry .sigmgr._PF:1 288x349+552+373
+wm geometry .sigmgr._PF:1 288x349+551+373
+wm geometry .sigmgr._PF:1 288x349+550+372
+wm geometry .sigmgr._PF:1 288x349+549+372
+wm geometry .sigmgr._PF:1 288x349+547+371
+wm geometry .sigmgr._PF:1 288x349+547+370
+wm geometry .sigmgr._PF:1 288x349+547+369
+wm geometry .sigmgr._PF:1 288x349+547+368
+wm geometry .sigmgr._PF:1 288x349+548+366
+wm geometry .sigmgr._PF:1 288x349+550+365
+wm geometry .sigmgr._PF:1 288x349+551+365
+wm geometry .sigmgr._PF:1 288x349+554+365
+wm geometry .sigmgr._PF:1 288x349+556+365
+wm geometry .sigmgr._PF:1 288x349+558+365
+wm geometry .sigmgr._PF:1 288x349+562+365
+wm geometry .sigmgr._PF:1 288x349+564+365
+wm geometry .sigmgr._PF:1 288x349+565+365
+wm geometry .sigmgr._PF:1 292x349+565+365
+wm geometry .sigmgr._PF:1 306x349+565+365
+wm geometry .sigmgr._PF:1 323x349+565+365
+wm geometry .sigmgr._PF:1 340x349+565+365
+wm geometry .sigmgr._PF:1 353x349+565+365
+wm geometry .sigmgr._PF:1 361x349+565+365
+wm geometry .sigmgr._PF:1 369x349+565+365
+wm geometry .sigmgr._PF:1 386x349+565+365
+wm geometry .sigmgr._PF:1 399x349+565+365
+wm geometry .sigmgr._PF:1 400x349+565+365
+wm geometry .sigmgr._PF:1 404x349+565+365
+wm geometry .sigmgr._PF:1 418x349+565+365
+wm geometry .sigmgr._PF:1 422x349+565+365
+wm geometry .sigmgr._PF:1 421x349+565+365
+wm geometry .sigmgr._PF:1 418x349+565+365
+wm geometry .sigmgr._PF:1 418x328+565+365
+wm geometry .sigmgr._PF:1 418x322+565+365
+wm geometry .sigmgr._PF:1 418x300+565+365
+wm geometry .sigmgr._PF:1 418x295+565+365
+wm geometry .sigmgr._PF:1 418x292+565+365
+wm geometry .sigmgr._PF:1 418x289+565+365
+wm geometry .sigmgr._PF:1 418x283+565+365
+wm geometry .sigmgr._PF:1 418x280+565+365
+wm geometry .sigmgr._PF:1 418x278+565+365
+wm geometry .sigmgr._PF:1 418x273+565+365
+wm geometry .sigmgr._PF:1 418x272+565+365
+wm geometry .sigmgr._PF:1 418x273+565+365
+wm geometry .sigmgr._PF:1 418x274+565+365
+wm geometry .sigmgr._PF:1 418x275+565+365
+wm geometry .sigmgr._PF:1 418x276+565+365
+wm geometry .sigmgr._PF:1 418x278+565+365
+wm geometry .sigmgr._PF:1 418x279+565+365
+wm geometry .sigmgr._PF:1 418x281+565+365
+wm geometry .sigmgr._PF:1 418x282+565+365
+wm geometry .sigmgr._PF:1 418x283+565+365
+wm geometry .sigmgr._PF:1 418x284+565+365
+wm geometry .sigmgr._PF:1 418x286+565+365
+wm geometry .sigmgr._PF:1 418x290+565+365
+wm geometry .sigmgr._PF:1 418x297+565+365
+wm geometry .sigmgr._PF:1 418x307+565+365
+wm geometry .sigmgr._PF:1 418x312+565+365
+wm geometry .sigmgr._PF:1 418x324+565+365
+wm geometry .sigmgr._PF:1 418x328+565+365
+wm geometry .sigmgr._PF:1 418x333+565+365
+wm geometry .sigmgr._PF:1 418x339+565+365
+wm geometry .sigmgr._PF:1 418x341+565+365
+wm geometry .sigmgr._PF:1 418x344+565+365
+wm geometry .sigmgr._PF:1 418x349+565+365
+pf:read PF:1 v(buff_a)
+# WF:1:1
+Graph addsignal WF:1:1 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal0
+pf:read PF:1 v(buff_b)
+# WF:1:2
+Graph addsignal WF:1:2 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal1
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal1 add
+# Signal1
+Graph sigconfig {Signal1 Signal0} -region {0 0} -rgnindex {0 1}
+Graph:DSel
+pf:read PF:1 v(xor)
+# WF:1:3
+Graph addsignal WF:1:3 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal2
+pf:read PF:1 v(inv)
+# WF:1:4
+Graph addsignal WF:1:4 -region new -yview real(y) -xview real(x) -tracehi 2
+# Signal3
+Graph:Select Graph0
+Graph:DSel
+Graph itemselect Signal3 add
+# Signal3
+Graph sigconfig {Signal3 Signal2} -region {1 1} -rgnindex {0 1}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Unload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Mdi:ArrangeIcons
+wm geometry . 926x648+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x647+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x645+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x639+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x638+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x637+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x638+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x639+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x643+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x644+57+19
+Mdi:ArrangeIcons
+wm geometry . 926x645+57+19
+wm geometry .sigmgr._PF:1 418x348+565+365
+wm geometry .sigmgr._PF:1 418x343+565+365
+wm geometry .sigmgr._PF:1 418x337+565+365
+wm geometry .sigmgr._PF:1 418x335+565+365
+wm geometry .sigmgr._PF:1 418x334+565+365
+wm geometry .sigmgr._PF:1 418x333+565+365
+wm geometry .sigmgr._PF:1 418x332+565+365
+wm geometry .sigmgr._PF:1 418x331+565+365
+wm geometry .sigmgr._PF:1 418x330+565+365
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.24875356234525 0.13619134702652} {3.2765n 4.6434n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.20947377332799 0.068324328721956} {3.1771n 4.718n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.21483387881936 0.025443484791009} {3.2765n 5.9109n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.18789084070636 0.083241162065357} {3.166032516n 5.713492551n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.1844599477016 0.043310503095571} {3.1522n 6.4826n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.16903050130764 0.045748075006172} {2.649291637n 6.340002029n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.1873250517083 0.034179180526347} {3.1025n 6.5323n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.16009699215536 0.11006934090259} {2.742491394n 5.147045134n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.15601267699662 0.13763517245478} {3.389711934n 4.607522096n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.1969668605148 0.014723273808273} {3.2019n 6.6565n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.18604670917421 0.1043689112105} {2.705211491n 5.72488363n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.24518015868434 0.10224401224785} {2.8254n 5.327n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.1897924019402 0.089737099434658} {2.9226n 6.8086n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.21999617089378 -533.88360822931u} {2.9783n 7.7749n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.16015442172943 0.10808482552757} {3.2879n 5.6489n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.20161866635195 -0.059750287131918} {3.1771n 6.5571n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.20414131908939 0.075498787296552} {3.338969841n 4.606486542n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.2130471769889 0.095124856178798} {3.4008n 5.0659n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.17376738822688 0.1125090397541} {3.439418471n 5.042454298n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.16832688125524 0.1536759262455} {3.327578762n 3.973763746n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.22019398431073 0.080831241535149} {3.4753n 5.2648n}}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.18528310675921 0.11789892343915} {3.4256n 4.9914n}}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.18528310675921 0.081143914355479} {3.2516n 5.1405n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.17909984221024 0.052244012247851} {3.2268n 4.6186n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.17345471540655 0.039452078122343} {3.6513627467n 4.7014133464n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.22203811584288 0.11177308859187} {3.5002n 5.1902n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.16395435391338 0.11801059255879} {3.704164092n 5.137119174n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.17915727191193 0.070934189610015} {3.3759n 5.9109n}}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.15967158700018 0.10071042659512} {3.563684814n 4.657228634n}}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.18936699665739 0.019885565882698} {3.4008n 6.234n}}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.2130471769889 -0.022797464631306} {2.6552n 8.0235n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.1844599477016 0.093338154348342} {3.4753n 4.4197n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.17373973671887 0.046883906756483} {3.4256n 5.1653n}}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.22019398431073 0.10941847082245} {3.2268n 4.9914n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}
+Graph:DSel
+ScopeSigMgr:Reload 0 {{(1) xor.tr0}}
+Graph:DSel
+Graph:Select Graph0
+Graph axisconfig {AxisY(1,0) AxisX(0)} -range {{0.19957672140286 0.10564725374459} {3.2765n 5.4884n}}
+Graph axisconfig {AxisX(0) AxisY(0,0) AxisY(1,0)} -range {all all all} -zoomed {0 0 0}

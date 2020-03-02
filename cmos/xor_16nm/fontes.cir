@@ -9,8 +9,8 @@ Vvdd3 vdd3 gnd supply
 
 
 	*-----Fontes para simulacao da colisao dos ions----*
-Va a gnd 0.7
-Vb b gnd 0.7
+Va a gnd 0.3
+Vb b gnd 0
 	*--------------------------------------------------*
 
 *--------------------------------------------------------------
